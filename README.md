@@ -1,0 +1,1 @@
+These are the relevant files for the paper "Generation of circular field harmonics in quasi-polygonal magnet apertures using superconducting canted-cosine-theta coils" that has been submitted to Physical Review Accelerators and Beams.
